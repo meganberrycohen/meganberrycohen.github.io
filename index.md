@@ -3,7 +3,7 @@
 ### Expertise
 
 Tableau 
-MAP
+![Usage map](/assets/EHM.png)
 
 Descriptive analyses
 ![Line graph](/assets/Picture1.png)
