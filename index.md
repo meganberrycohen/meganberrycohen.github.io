@@ -6,7 +6,7 @@ Tableau
 MAP
 
 Descriptive analyses
-![Graph](/meganberrycohen.github.io/assets/Picture1.png)
+![Line graph](/assets/Picture1.png)
 
 Inferential analyses 
 
